@@ -16,7 +16,7 @@ I am a highly technical **Data Specialist & Annotator** focused on data structur
 ---
 
 ### 📂 Featured Technical Projects
-* 🚀 **[Data Automation Toolkit](https://github.com/Santosssz/data-automation-toolkit)** *(Coming Soon)* — A collection of production-ready Python utilities designed to clean, sanitize, and validate structured JSON records automatically.
+* 🚀 **[Data Automation Toolkit](https://github.com/Santosssz/data-automation-toolkit)** — A collection of production-ready Python utilities designed to clean, sanitize, and validate structured JSON records automatically.
 
 
 ---
